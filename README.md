@@ -6,6 +6,8 @@ Question creator on Vue.js, Vuetify and Firebase as backend
 npm install
 ```
 
+Also you need to replase values in /src/settings.js with your own.
+
 ## Development
 ```
 npm start
